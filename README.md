@@ -1,13 +1,13 @@
 C# .NET open-source obfuscator. Mappix
 
-Code requirements:
+##Code requirements:
 - Supports any .NET Framework C# Library of input code
 
-Requirements:
+##Requirements:
 - Require .NET Framework 6 or never
 - Require OS's: Windows, Linux, MacOS
 
-Tools:
+##Tools:
 - Remove all unusual symbols (\t\r)
 - Remove all basic comments (//)
 - Remove all region comments (*//*)
