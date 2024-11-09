@@ -1,0 +1,6 @@
+C:\Users\YZukio\source\repos\mappix\mappix\bin\Release\net8.0\publish\win-x86\mappix.exe
+C:\Users\YZukio\source\repos\mappix\mappix\bin\Release\net8.0\publish\win-x86\mappix.dll
+C:\Users\YZukio\source\repos\mappix\mappix\bin\Release\net8.0\publish\win-x86\mappix.deps.json
+C:\Users\YZukio\source\repos\mappix\mappix\bin\Release\net8.0\publish\win-x86\mappix.runtimeconfig.json
+C:\Users\YZukio\source\repos\mappix\mappix\bin\Release\net8.0\publish\win-x86\mappix.pdb
+C:\Users\YZukio\source\repos\mappix\mappix\bin\Release\net8.0\publish\win-x86\System.IO.Hashing.dll

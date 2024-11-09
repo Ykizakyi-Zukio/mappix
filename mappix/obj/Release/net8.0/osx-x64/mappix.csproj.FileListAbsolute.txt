@@ -1,0 +1,17 @@
+C:\Users\YZukio\source\repos\mappix\mappix\bin\Release\net8.0\osx-x64\mappix
+C:\Users\YZukio\source\repos\mappix\mappix\bin\Release\net8.0\osx-x64\mappix.deps.json
+C:\Users\YZukio\source\repos\mappix\mappix\bin\Release\net8.0\osx-x64\mappix.runtimeconfig.json
+C:\Users\YZukio\source\repos\mappix\mappix\bin\Release\net8.0\osx-x64\mappix.dll
+C:\Users\YZukio\source\repos\mappix\mappix\bin\Release\net8.0\osx-x64\mappix.pdb
+C:\Users\YZukio\source\repos\mappix\mappix\bin\Release\net8.0\osx-x64\System.IO.Hashing.dll
+C:\Users\YZukio\source\repos\mappix\mappix\obj\Release\net8.0\osx-x64\mappix.csproj.AssemblyReference.cache
+C:\Users\YZukio\source\repos\mappix\mappix\obj\Release\net8.0\osx-x64\mappix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YZukio\source\repos\mappix\mappix\obj\Release\net8.0\osx-x64\mappix.AssemblyInfoInputs.cache
+C:\Users\YZukio\source\repos\mappix\mappix\obj\Release\net8.0\osx-x64\mappix.AssemblyInfo.cs
+C:\Users\YZukio\source\repos\mappix\mappix\obj\Release\net8.0\osx-x64\mappix.csproj.CoreCompileInputs.cache
+C:\Users\YZukio\source\repos\mappix\mappix\obj\Release\net8.0\osx-x64\mappix.csproj.Up2Date
+C:\Users\YZukio\source\repos\mappix\mappix\obj\Release\net8.0\osx-x64\mappix.dll
+C:\Users\YZukio\source\repos\mappix\mappix\obj\Release\net8.0\osx-x64\refint\mappix.dll
+C:\Users\YZukio\source\repos\mappix\mappix\obj\Release\net8.0\osx-x64\mappix.pdb
+C:\Users\YZukio\source\repos\mappix\mappix\obj\Release\net8.0\osx-x64\mappix.genruntimeconfig.cache
+C:\Users\YZukio\source\repos\mappix\mappix\obj\Release\net8.0\osx-x64\ref\mappix.dll

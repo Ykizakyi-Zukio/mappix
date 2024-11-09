@@ -1,0 +1,6 @@
+C:\Users\YZukio\source\repos\mappix\mappix\bin\Release\net8.0\publish\linux-arm\mappix
+C:\Users\YZukio\source\repos\mappix\mappix\bin\Release\net8.0\publish\linux-arm\mappix.dll
+C:\Users\YZukio\source\repos\mappix\mappix\bin\Release\net8.0\publish\linux-arm\mappix.deps.json
+C:\Users\YZukio\source\repos\mappix\mappix\bin\Release\net8.0\publish\linux-arm\mappix.runtimeconfig.json
+C:\Users\YZukio\source\repos\mappix\mappix\bin\Release\net8.0\publish\linux-arm\mappix.pdb
+C:\Users\YZukio\source\repos\mappix\mappix\bin\Release\net8.0\publish\linux-arm\System.IO.Hashing.dll
