@@ -19,6 +19,7 @@
     <AssemblyVersion>1.8.2</AssemblyVersion>
     <PackageLicenseExpression>GPL v3</PackageLicenseExpression>
     <StartupObject>Mappix.Program</StartupObject>
+    <FileVersion>1.8.2</FileVersion>
   </PropertyGroup>
 
   <ItemGroup>
@@ -28,5 +29,15 @@
   <ItemGroup>
     <PackageReference Include="System.IO.Hashing" Version="8.0.0" />
   </ItemGroup>
+
+  <Target Name="AfterPublish" AfterTargets="Publish">
+  <ItemGroup>
+    <PublishedFiles Include="$(PublishDir)**\*" />
+  </ItemGroup>
+  <ZipFiles SourceFiles="@(PublishedFiles)" ZipFileName="$(PublishDir)Release.zip" />
+</Target>
+
+<UsingTask TaskName="ZipFiles" AssemblyFile="$(MSBuildExtensionsPath)\Microsoft\MSBuild\Microsoft.Build.Tasks.Core.dll" />
+
 
 </Project>

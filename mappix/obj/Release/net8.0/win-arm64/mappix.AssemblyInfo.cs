@@ -11,13 +11,17 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("mappix")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Devil Kingdom Softworks")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
-[assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("mappix")]
+[assembly: System.Reflection.AssemblyCopyrightAttribute("GPL v3")]
+[assembly: System.Reflection.AssemblyDescriptionAttribute("C# .NET Obfuscator")]
+[assembly: System.Reflection.AssemblyFileVersionAttribute("1.8.2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+76711d7466d2afe826d9fc5281ed1ed071883040")]
+[assembly: System.Reflection.AssemblyProductAttribute("Mappix")]
 [assembly: System.Reflection.AssemblyTitleAttribute("mappix")]
-[assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
+[assembly: System.Reflection.AssemblyVersionAttribute("1.8.2")]
+[assembly: System.Reflection.AssemblyMetadataAttribute("RepositoryUrl", "https://github.com/Ykizakyi-Zukio/mappix.git")]
+[assembly: System.Resources.NeutralResourcesLanguageAttribute("en")]
 
 // Создано классом WriteCodeFragment MSBuild.
 

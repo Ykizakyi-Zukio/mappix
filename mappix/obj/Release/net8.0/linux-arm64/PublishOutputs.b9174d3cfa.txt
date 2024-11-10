@@ -1,0 +1,2 @@
+C:\Users\YZukio\source\GitHub\mappix\mappix\bin\Release\net8.0\publish\linux-arm64\mappix.pdb
+C:\Users\YZukio\source\GitHub\mappix\mappix\bin\Release\net8.0\publish\linux-arm64\mappix
