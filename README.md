@@ -8,7 +8,7 @@ C# .NET open-source obfuscator. Mappix
 - Require OS's: Windows, Linux, MacOS
 
 ##Tools:
-- Remove all unusual symbols (\t\r)
+- Remove all unusual symbols (\t\r\v\n)
 - Remove all basic comments (//)
 - Remove all region comments (*/)
 - Remove all Visual Studio regions
