@@ -5,7 +5,24 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <ApplicationIcon>20241107_220744.ico</ApplicationIcon>
+    <Authors>Ykizakyi Zukio, {Authors}</Authors>
+    <Company>Devil Kingdom Softworks</Company>
+    <Product>Mappix</Product>
+    <Description>C# .NET Obfuscator</Description>
+    <Copyright>GPL v3</Copyright>
+    <PackageProjectUrl>https://github.com/Ykizakyi-Zukio/mappix</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/Ykizakyi-Zukio/mappix.git</RepositoryUrl>
+    <PackageTags>cs, obfuscator, anycpu</PackageTags>
+    <PackageReleaseNotes>Added meta-data to project</PackageReleaseNotes>
+    <NeutralLanguage>en</NeutralLanguage>
+    <AssemblyVersion>Release 1.8.2 stable</AssemblyVersion>
+    <PackageLicenseExpression>GPL v3</PackageLicenseExpression>
   </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="20241107_220744.ico" />
+  </ItemGroup>
 
   <ItemGroup>
     <PackageReference Include="System.IO.Hashing" Version="8.0.0" />
