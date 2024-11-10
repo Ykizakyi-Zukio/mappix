@@ -24,3 +24,12 @@ C:\Users\YZukio\source\GitHub\mappix\mappix\obj\Release\net8.0\mappix.sourcelink
 C:\Users\YZukio\source\GitHub\mappix\mappix\obj\Release\net8.0\mappix.dll
 C:\Users\YZukio\source\GitHub\mappix\mappix\obj\Release\net8.0\refint\mappix.dll
 C:\Users\YZukio\source\GitHub\mappix\mappix\obj\Release\net8.0\mappix.pdb
+C:\Users\YZukio\source\GitHub\mappix\mappix\bin\Release\net8.0\mappix.exe
+C:\Users\YZukio\source\GitHub\mappix\mappix\bin\Release\net8.0\mappix.deps.json
+C:\Users\YZukio\source\GitHub\mappix\mappix\bin\Release\net8.0\mappix.runtimeconfig.json
+C:\Users\YZukio\source\GitHub\mappix\mappix\bin\Release\net8.0\mappix.dll
+C:\Users\YZukio\source\GitHub\mappix\mappix\bin\Release\net8.0\mappix.pdb
+C:\Users\YZukio\source\GitHub\mappix\mappix\bin\Release\net8.0\System.IO.Hashing.dll
+C:\Users\YZukio\source\GitHub\mappix\mappix\obj\Release\net8.0\mappix.csproj.Up2Date
+C:\Users\YZukio\source\GitHub\mappix\mappix\obj\Release\net8.0\mappix.genruntimeconfig.cache
+C:\Users\YZukio\source\GitHub\mappix\mappix\obj\Release\net8.0\ref\mappix.dll
