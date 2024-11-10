@@ -25,7 +25,7 @@
   <ItemGroup>
     <Content Include="20241107_220744.ico" />
   </ItemGroup>
-
+  
   <ItemGroup>
     <PackageReference Include="System.IO.Hashing" Version="8.0.0" />
   </ItemGroup>
@@ -38,6 +38,10 @@
 </Target>
 
 <UsingTask TaskName="ZipFiles" AssemblyFile="$(MSBuildExtensionsPath)\Microsoft\MSBuild\Microsoft.Build.Tasks.Core.dll" />
+
+<Target Name="PostBuild" AfterTargets="PostBuildEvent">
+  <Exec Command="powershell -Command &quot;Compress-Archive -Path $(TargetDir)* -DestinationPath $(TargetDir)Release.zip -Force&quot;" />
+</Target>
 
 
 </Project>
