@@ -16,7 +16,7 @@
     <PackageTags>cs, obfuscator, anycpu</PackageTags>
     <PackageReleaseNotes>Added meta-data to project</PackageReleaseNotes>
     <NeutralLanguage>en</NeutralLanguage>
-    <AssemblyVersion>Release 1.8.2 stable</AssemblyVersion>
+    <AssemblyVersion>1.8.2</AssemblyVersion>
     <PackageLicenseExpression>GPL v3</PackageLicenseExpression>
     <StartupObject>Mappix.Program</StartupObject>
   </PropertyGroup>
