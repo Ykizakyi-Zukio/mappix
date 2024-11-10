@@ -10,7 +10,7 @@ C# .NET open-source obfuscator. Mappix
 ##Tools:
 - Remove all unusual symbols (\t\r)
 - Remove all basic comments (//)
-- Remove all region comments (**/ /**)
+- Remove all region comments (*/)
 - Remove all Visual Studio regions
 - Rename a local/public classes
 
