@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCopyrightAttribute("GPL v3")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("C# .NET Obfuscator")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("Release 1.8.2 stable")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6ae012d8bf85bf68d61c896e82d4781e02b5791b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+35c5df3abf83880284481a1b6884f772f3e53f68")]
 [assembly: System.Reflection.AssemblyProductAttribute("Mappix")]
 [assembly: System.Reflection.AssemblyTitleAttribute("mappix")]
 [assembly: System.Reflection.AssemblyVersionAttribute("Release 1.8.2 stable")]

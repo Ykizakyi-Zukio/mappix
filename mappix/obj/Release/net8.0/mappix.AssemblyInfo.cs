@@ -11,13 +11,17 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("mappix")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Devil Kingdom Softworks")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
-[assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b38641364d3c8014d0aafa92cc6eed6d575a4fe7")]
-[assembly: System.Reflection.AssemblyProductAttribute("mappix")]
+[assembly: System.Reflection.AssemblyCopyrightAttribute("GPL v3")]
+[assembly: System.Reflection.AssemblyDescriptionAttribute("C# .NET Obfuscator")]
+[assembly: System.Reflection.AssemblyFileVersionAttribute("Release 1.8.2 stable")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+35c5df3abf83880284481a1b6884f772f3e53f68")]
+[assembly: System.Reflection.AssemblyProductAttribute("Mappix")]
 [assembly: System.Reflection.AssemblyTitleAttribute("mappix")]
-[assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
+[assembly: System.Reflection.AssemblyVersionAttribute("Release 1.8.2 stable")]
+[assembly: System.Reflection.AssemblyMetadataAttribute("RepositoryUrl", "https://github.com/Ykizakyi-Zukio/mappix.git")]
+[assembly: System.Resources.NeutralResourcesLanguageAttribute("en")]
 
 // Создано классом WriteCodeFragment MSBuild.
 

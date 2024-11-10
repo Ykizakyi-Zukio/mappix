@@ -15,3 +15,12 @@ C:\Users\YZukio\source\repos\mappix\mappix\obj\Release\net8.0\refint\mappix.dll
 C:\Users\YZukio\source\repos\mappix\mappix\obj\Release\net8.0\mappix.pdb
 C:\Users\YZukio\source\repos\mappix\mappix\obj\Release\net8.0\mappix.genruntimeconfig.cache
 C:\Users\YZukio\source\repos\mappix\mappix\obj\Release\net8.0\ref\mappix.dll
+C:\Users\YZukio\source\GitHub\mappix\mappix\obj\Release\net8.0\mappix.csproj.AssemblyReference.cache
+C:\Users\YZukio\source\GitHub\mappix\mappix\obj\Release\net8.0\mappix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YZukio\source\GitHub\mappix\mappix\obj\Release\net8.0\mappix.AssemblyInfoInputs.cache
+C:\Users\YZukio\source\GitHub\mappix\mappix\obj\Release\net8.0\mappix.AssemblyInfo.cs
+C:\Users\YZukio\source\GitHub\mappix\mappix\obj\Release\net8.0\mappix.csproj.CoreCompileInputs.cache
+C:\Users\YZukio\source\GitHub\mappix\mappix\obj\Release\net8.0\mappix.sourcelink.json
+C:\Users\YZukio\source\GitHub\mappix\mappix\obj\Release\net8.0\mappix.dll
+C:\Users\YZukio\source\GitHub\mappix\mappix\obj\Release\net8.0\refint\mappix.dll
+C:\Users\YZukio\source\GitHub\mappix\mappix\obj\Release\net8.0\mappix.pdb
