@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("mappix")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b38641364d3c8014d0aafa92cc6eed6d575a4fe7")]
 [assembly: System.Reflection.AssemblyProductAttribute("mappix")]
 [assembly: System.Reflection.AssemblyTitleAttribute("mappix")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\YZukio\\source\\repos\\mappix\\mappix\\mappix.csproj": {}
+    "C:\\Users\\YZukio\\source\\GitHub\\mappix\\mappix\\mappix.csproj": {}
   },
   "projects": {
-    "C:\\Users\\YZukio\\source\\repos\\mappix\\mappix\\mappix.csproj": {
+    "C:\\Users\\YZukio\\source\\GitHub\\mappix\\mappix\\mappix.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\YZukio\\source\\repos\\mappix\\mappix\\mappix.csproj",
+        "projectUniqueName": "C:\\Users\\YZukio\\source\\GitHub\\mappix\\mappix\\mappix.csproj",
         "projectName": "mappix",
-        "projectPath": "C:\\Users\\YZukio\\source\\repos\\mappix\\mappix\\mappix.csproj",
+        "projectPath": "C:\\Users\\YZukio\\source\\GitHub\\mappix\\mappix\\mappix.csproj",
         "packagesPath": "C:\\Users\\YZukio\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\YZukio\\source\\repos\\mappix\\mappix\\obj\\",
+        "outputPath": "C:\\Users\\YZukio\\source\\GitHub\\mappix\\mappix\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
