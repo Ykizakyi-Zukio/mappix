@@ -10,7 +10,7 @@ namespace Mappix
         public RegionMapper regionMapper = new();
         public NameBuilderRule nameBuilderRule = new();
 
-        public string totalResult { get; private set; } = "";
+        public string TotalResult { get; private set; } = "";
 
         readonly StringManipulations stringManipulations = new();
         readonly StringManipulationsLegacy sml = new();
@@ -32,7 +32,7 @@ namespace Mappix
                 noneRegions = RegionMapper.RemoveAllCommentsRegex(noneRegions);
             }
 
-            totalResult = noneRegions;
+            TotalResult = noneRegions;
         }
     }
 }

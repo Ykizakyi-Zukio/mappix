@@ -24,8 +24,7 @@ namespace Mappix.Actions
         {
             if (Profile.DeleteRegions == false) { return text; }
             if (region.StartIndex < 0 || region.EndIndex < 0) { return text; }
-            //if (region.EndIndex < region.StartIndex) { return ";(stop)"; }
-
+            
             text = text.Remove(region.StartIndex, region.EndIndex - region.StartIndex);
 
             return text;

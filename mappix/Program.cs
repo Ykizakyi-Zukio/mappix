@@ -153,7 +153,7 @@ public class Program
             Console.WriteLine("Starting to mapping a source code");
 
             mappix.Obfuscate(data);
-            FileManipulations.CreateFile($@"{path}\{addPath}\{file}", mappix.totalResult, fm);
+            FileManipulations.CreateFile($@"{path}\{addPath}\{file}", mappix.TotalResult, fm);
             sw.Stop();
 
             Console.WriteLine($"\rFinished file obfuscating, stealed time is: {sw.Elapsed.TotalMilliseconds}ms / {sw.Elapsed.TotalSeconds}s!");
