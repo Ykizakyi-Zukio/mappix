@@ -140,7 +140,6 @@ public class Program
             datas[i] = (FileManipulations.ReadFileContent(allPathes[i]));
         }
 
-        mappix.nameBuilderRule.Count = 9999999;
         if (mappix.settingsProfile.RenameClasses && mappix.nameBuilderRule.Type != BuildType.Empty)
             datas = CodeMapper.ReplaceIdentifiersWithHashRegex(datas, mappix.nameBuilderRule);
 
